@@ -50,15 +50,19 @@ JoseMtz% java challenge
 Input number of assignments: <-----say user types 4
 
 Input students score: <-----say user types 7
+
 Input the max score: <------say user types 48
 
 Input students score: <-----say user types 0
+
 Input the max score: <------say user types 83
 
 Input students score: <-----say user types 59
+
 Input the max score: <------say user types 76
 
 Input students score: <-----say user types 13
+
 Input the max score: <------say user types 100
 
 Best possible percentage: 77.6% <----short for ease, it is really 77.63157894736842, but consider yourself right if you get 77.6....
