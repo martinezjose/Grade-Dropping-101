@@ -3,7 +3,7 @@ Grade-Dropping-101
 
 This problem is from a programming competition.
 
-Lots of top programmers couldn't figure it out, but it only requires basic commands and info, and it's somewhat short (not too short, of course)
+Lots of top programmers couldn't figure it out, but it only requires basic commands and info, and it's somewhat short (not too short, of course).
 
 "COLLEGIATE PROGRAMMING COMPETITION, 2006"
 "Grade Dropping 101"
@@ -39,6 +39,7 @@ Input to your program is:
  
 OUTPUT:
 * The best possible final assignment percentage, from dropping 3 scores.
+
 ---------------------------------------------------------------------------------------------------------------------
 
 SAMPLE INPUTS, TO TEST YOUR PROGRAM:
